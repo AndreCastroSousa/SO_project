@@ -3,6 +3,7 @@ Projeto de SO (Grupo 2)
 
 ########################## Vídeo ##################################  
 Link para o video : https://www.youtube.com/watch?v=tzhYW9T5Lbk
+
 ########################### Descrição ###############################  
 
 Este projeto visa a construir o programa micromouse. O micromouse é um evento onde um robot resolve um labirinto 16x16, no nosso caso usamos labirintos maiores que se podem encontrar na Pasta "Maze" que está dentro da cada Pasta que corresponde aos diferentes modos de jogos (4 teclas e 3 teclas) respetivamente "WASD" e "WAD".
@@ -33,4 +34,7 @@ Como correr o servidor e cliente:
   
 
 ########################## Grupo ###############################  
-Trabalho feito por: André Sousa, Bruno Viveiros, Gonçalo Almeida
+Trabalho feito por: 
+-André Sousa 
+-Bruno Viveiros 
+-Gonçalo Almeida
