@@ -35,6 +35,6 @@ Como correr o servidor e cliente:
 
 ########################## Grupo ###############################  
 Trabalho feito por: 
--André Sousa 
--Bruno Viveiros 
--Gonçalo Almeida
+- André Sousa 
+- Bruno Viveiros 
+- Gonçalo Almeida
